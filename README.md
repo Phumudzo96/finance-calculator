@@ -1,4 +1,4 @@
-# Capstones
+# Capstone-I
 # Finance Calculators
 For this task, assume that you have been approached by a small financial company and asked to create a program that allows the user to access two different financial calculators: an investment calculator and a home loan repayment calculator. ● Create a new Python file in this folder called ​finance_calculators.py​.  ● At the top of the file include the line ​import math  ● Write the code that will do the following: 
 
