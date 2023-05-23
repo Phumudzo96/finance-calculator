@@ -1,10 +1,10 @@
 # Table of content
 
-●Introduction
+● Introduction
 
-●General Information
+● General Information
 
-●Technologies
+● Technologies
 
 # Introduction
 
@@ -43,9 +43,9 @@ This project was built using Python. It utilises control statements and user inp
 
 # Technologies
 
-●Python 3.10
+● Python 3.10
 
-●Visual Studio Code 1.68
+● Visual Studio Code 1.68
 
 
 
