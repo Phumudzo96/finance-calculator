@@ -8,7 +8,7 @@
 
 # Introduction
 
-In this programm the user should be allowed to choose which calculation they want to do. How the user capitalises their selection should not affect how the   program proceeds. I.e. ‘Bond’, ‘bond’, ‘BOND’ or ‘investment’, ‘Investment’, ‘INVESTMENT’, etc. should all be recognised as valid entries. If the user selects ‘investment’, do the following: 
+In this programm the user should be allowed to choose which calculation they want to do. How the user capitalises their selection should not affect how the   program proceeds. I.e. ‘Bond’, ‘bond’, ‘BOND’ or ‘investment’, ‘Investment’, ‘INVESTMENT’, etc. should all be recognised as valid entries. If the user selects ‘investment', do the following: 
 
 ■ Ask the user to input:  
 ● The amount of money that they are depositing.  
